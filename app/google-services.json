@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026133082146",
+    "firebase_url": "https://chatapplication-a0c1a.firebaseio.com",
+    "project_id": "chatapplication-a0c1a",
+    "storage_bucket": "chatapplication-a0c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026133082146:android:c0b8f24f4fc59f70bc4a7b",
+        "android_client_info": {
+          "package_name": "com.istiak.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026133082146-fhsp7nnnfv6c7jbolfqhuhth9bt2ej5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.istiak.chatapplication",
+            "certificate_hash": "1be4e4ee00f15eb40f7f5b17bfd234a4781a28b7"
+          }
+        },
+        {
+          "client_id": "1026133082146-hd7ck7qvplu28fj9889fecv4l2452lif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcv-F6ofpGbMvPv8VqUEK8G3G7MKACIBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026133082146-hd7ck7qvplu28fj9889fecv4l2452lif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
